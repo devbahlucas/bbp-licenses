@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "updated": "2025-10-16",
+  "licenses": {
+    "DEMO-2025-FREE": {
+      "type": "demo",
+      "expire": "2025-12-31",
+      "user": "Demo User",
+      "created": "2025-10-16"
+    },
+    "BBP-ADMIN-2025": {
+      "type": "lifetime",
+      "expire": null,
+      "user": "Lucas (Admin)",
+      "created": "2025-10-16"
+    }
+  }
+}
