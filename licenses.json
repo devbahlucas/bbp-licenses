@@ -17,9 +17,16 @@
     "BBP-F0G2-RGY2-ORZ5": {
       "type": "lifetime",
       "expire": null,
-      "user": "Teste Automático",
+      "user": "Teste AutomÃ¡tico",
       "created": "2025-10-16",
       "email": "teste@teste.com"
+    },
+    "BBP-BOB0-3SVS-A0E3": {
+      "type": "monthly",
+      "expire": "2025-11-16",
+      "user": "Bruno Teste",
+      "created": "2025-10-16",
+      "email": "bahlucas.rs@gmail.com"
     }
   }
 }
