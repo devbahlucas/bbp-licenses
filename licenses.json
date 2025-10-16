@@ -13,6 +13,13 @@
       "expire": null,
       "user": "Lucas (Admin)",
       "created": "2025-10-16"
+    },
+    "BBP-F0G2-RGY2-ORZ5": {
+      "type": "lifetime",
+      "expire": null,
+      "user": "Teste Automático",
+      "created": "2025-10-16",
+      "email": "teste@teste.com"
     }
   }
 }
