@@ -17,7 +17,7 @@
     "BBP-F0G2-RGY2-ORZ5": {
       "type": "lifetime",
       "expire": null,
-      "user": "Teste AutomÃÂÃÂÃÂÃÂ¡tico",
+      "user": "Teste AutomÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡tico",
       "created": "2025-10-16",
       "email": "teste@teste.com"
     },
@@ -48,6 +48,13 @@
       "user": "Teste 3",
       "created": "2025-10-16",
       "email": "ba.h.lucas.rs@gmail.com"
+    },
+    "BBP-YRYB-1NHR-4FTY": {
+      "type": "lifetime",
+      "expire": null,
+      "user": "Teste",
+      "created": "2025-10-16",
+      "email": "bah.luca.s.rs@gmail.com"
     }
   }
 }
